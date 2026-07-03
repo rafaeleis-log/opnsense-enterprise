@@ -22,25 +22,13 @@ Os conteúdos apresentados são genéricos e destinados a estudos, laboratórios
 
 | Documento | Descrição |
 |-----------|-----------|
-| 📐 Architecture.md | Arquitetura da solução |
-| 🔐 VPN.md | VPN Site-to-Site |
-| 🌐 VLAN.md | Segmentação de rede |
-| 🛡 Firewall-Rules.md | Regras de Firewall |
-| 💾 Backup.md | Estratégia de Backup |
-| 📊 Monitoring.md | Monitoramento |
-| ✅ Best-Practices.md | Boas práticas |
-# 📚 Documentação
-
-| Documento | Descrição |
-|-----------|-----------|
-| 📐 Architecture.md | Arquitetura da solução |
-| 🔐 VPN.md | VPN Site-to-Site |
-| 🌐 VLAN.md | Segmentação de rede |
-| 🛡 Firewall-Rules.md | Regras de Firewall |
-| 💾 Backup.md | Estratégia de Backup |
-| 📊 Monitoring.md | Monitoramento |
-| ✅ Best-Practices.md | Boas práticas |
-
+| 📐 [Architecture.md](Architecture.md) | Arquitetura da solução |
+| 🔐 [VPN.md](VPN.md) | VPN Site-to-Site |
+| 🌐 [VLAN.md](VLAN.md) | Segmentação de rede |
+| 🛡 [Firewall-Rules.md](Firewall-Rules.md) | Regras de Firewall |
+| 💾 [Backup.md](Backup.md) | Estratégia de Backup |
+| 📊 [Monitoring.md](Monitoring.md) | Monitoramento |
+| ✅ [Best-Practices.md](Best-Practices.md) | Boas práticas |
 ---
 
 # 🖥 Tecnologias
