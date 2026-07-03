@@ -11,13 +11,6 @@ Este projeto reúne documentação técnica baseada em boas práticas de infraes
 Os conteúdos apresentados são genéricos e destinados a estudos, laboratórios e demonstrações técnicas.
 
 ---
-# 📌 Objetivo
-
-Este projeto reúne documentação técnica baseada em boas práticas de infraestrutura corporativa utilizando o OPNsense como firewall principal.
-
-Os conteúdos apresentados são genéricos e destinados a estudos, laboratórios e demonstrações técnicas.
-
----
 
 # 🏗️ Arquitetura de Referência
 
