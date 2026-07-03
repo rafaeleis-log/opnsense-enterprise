@@ -11,7 +11,31 @@ Este projeto reúne documentação técnica baseada em boas práticas de infraes
 Os conteúdos apresentados são genéricos e destinados a estudos, laboratórios e demonstrações técnicas.
 
 ---
+# 📌 Objetivo
 
+Este projeto reúne documentação técnica baseada em boas práticas de infraestrutura corporativa utilizando o OPNsense como firewall principal.
+
+Os conteúdos apresentados são genéricos e destinados a estudos, laboratórios e demonstrações técnicas.
+
+---
+
+# 🏗️ Arquitetura de Referência
+
+![Arquitetura OPNsense](Topology.png)
+
+---
+
+# 📚 Documentação
+
+| Documento | Descrição |
+|-----------|-----------|
+| 📐 Architecture.md | Arquitetura da solução |
+| 🔐 VPN.md | VPN Site-to-Site |
+| 🌐 VLAN.md | Segmentação de rede |
+| 🛡 Firewall-Rules.md | Regras de Firewall |
+| 💾 Backup.md | Estratégia de Backup |
+| 📊 Monitoring.md | Monitoramento |
+| ✅ Best-Practices.md | Boas práticas |
 # 📚 Documentação
 
 | Documento | Descrição |
