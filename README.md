@@ -93,6 +93,17 @@ O conteúdo foi elaborado para fins de estudo, laboratório e composição de po
 
 ---
 
+## 👨‍💻 Autor
+
+**Rafael Ferreira Eis**
+
+Especialista em Infraestrutura de TI, Redes Corporativas e Segurança da Informação.
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rafael-eis
+- 💻 GitHub: https://github.com/rafaeleis-log
+  
+---
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT.
