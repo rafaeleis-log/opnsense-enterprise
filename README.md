@@ -48,17 +48,29 @@ Os conteúdos apresentados são genéricos e destinados a estudos, laboratórios
 
 ## 🚀 Roadmap
 
-- [x] Arquitetura
-- [x] VLANs
-- [x] VPN
-- [x] Firewall
+### ✅ Concluído
+
+- [x] Arquitetura de Referência
+- [x] Diagrama de Topologia
+- [x] Documentação de VLANs
+- [x] VPN Site-to-Site
+- [x] Regras de Firewall
+- [x] NAT
+- [x] IDS/IPS (Suricata)
+- [x] Estratégia de Backup
 - [x] Monitoramento
-- [x] Backup
+- [x] Troubleshooting
+- [x] Boas Práticas
+
+### 🔄 Próximas Melhorias
+
 - [ ] High Availability (CARP)
 - [ ] Multi-WAN
-- [ ] IPS Avançado
 - [ ] Captive Portal
+- [ ] QoS / Traffic Shaping
+- [ ] Scripts de automação em Python
 - [ ] Dashboard Grafana
+- [ ] Templates Zabbix
 
 ---
 
