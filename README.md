@@ -85,6 +85,12 @@ Os conteúdos apresentados são genéricos e destinados a estudos, laboratórios
 
 ---
 
+## 📌 Projeto
+
+Este repositório foi desenvolvido como documentação técnica demonstrativa, reunindo conceitos e boas práticas para implantação, administração e segurança de ambientes corporativos utilizando o firewall OPNsense.
+
+O conteúdo foi elaborado para fins de estudo, laboratório e composição de portfólio profissional, sem utilizar informações confidenciais de ambientes produtivos.
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT.
