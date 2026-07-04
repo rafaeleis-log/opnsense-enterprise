@@ -1,26 +1,75 @@
-# Arquitetura
+# 🏗️ Arquitetura
 
 ## Objetivo
-Implementar uma infraestrutura segura utilizando OPNsense.
 
-## Componentes
+Descrever a arquitetura da infraestrutura baseada em OPNsense.
+
+---
+
+## Visão Geral
+
+O ambiente é composto por:
+
 - Internet
-- OPNsense
+- Firewall OPNsense
 - Core Switch
-- Windows Server
 - Active Directory
 - Microsoft 365
-- Zabbix
 - UniFi
+- Zabbix
+- VPN Site-to-Site
+
+---
 
 ## Topologia
 
-```text
+![Arquitetura](Topology.png)
+
+---
+
+## Fluxo de Rede
+
 Internet
-   |
-OPNsense
-   |
+
+↓
+
+Firewall OPNsense
+
+↓
+
 Core Switch
- |   |   |
-AD VLAN VPN
-```
+
+↓
+
+VLANs
+
+↓
+
+Servidores
+
+↓
+
+Clientes
+
+---
+
+## VLANs
+
+| VLAN | Descrição |
+|------|-----------|
+|10|Usuários|
+|20|Servidores|
+|30|VoIP|
+|40|CFTV|
+|50|Convidados|
+|60|IoT|
+
+---
+
+## Segurança
+
+- IDS/IPS
+- GeoIP
+- DNS Seguro
+- VPN IPSec
+- Backup Automático
