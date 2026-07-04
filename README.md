@@ -1,5 +1,4 @@
 # 🔥 OPNsense Enterprise
-# 🔥 OPNsense Enterprise
 
 ![OPNsense](https://img.shields.io/badge/OPNsense-F15833?style=for-the-badge&logo=opnsense&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
