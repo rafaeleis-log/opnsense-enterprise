@@ -1,4 +1,13 @@
 # 🔥 OPNsense Enterprise
+# 🔥 OPNsense Enterprise
+
+![OPNsense](https://img.shields.io/badge/OPNsense-F15833?style=for-the-badge&logo=opnsense&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge)
+
+> Documentação técnica sobre implantação, administração e boas práticas utilizando o firewall OPNsense em ambientes corporativos.
 
 > Documentação técnica sobre implantação, administração e boas práticas utilizando o firewall OPNsense em ambientes corporativos.
 
