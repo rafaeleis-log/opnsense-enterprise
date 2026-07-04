@@ -38,13 +38,16 @@ Os conteúdos apresentados são genéricos e destinados a estudos, laboratórios
 
 | Documento | Conteúdo |
 |-----------|----------|
-| 📐 Architecture | Arquitetura completa da solução |
-| 🔐 VPN | VPN Site-to-Site, OpenVPN e WireGuard |
-| 🌐 VLAN | Segmentação lógica |
-| 🛡 Firewall | Regras, NAT e Aliases |
-| 📊 Monitoring | Zabbix, SNMP e Alertas |
-| 💾 Backup | Estratégia de Backup |
-| ✅ Best Practices | Hardening e Segurança |
+| 📐 [Architecture.md](Architecture.md) | Arquitetura completa da solução |
+| 🔐 [VPN.md](VPN.md) | VPN Site-to-Site, OpenVPN e WireGuard |
+| 🌐 [VLAN.md](VLAN.md) | Segmentação lógica |
+| 🛡 [Firewall-Rules.md](Firewall-Rules.md) | Regras, NAT e Aliases |
+| 🌍 [NAT.md](NAT.md) | Tradução de Endereços de Rede |
+| 🚨 [IDS-IPS.md](IDS-IPS.md) | IDS/IPS com Suricata |
+| 📊 [Monitoring.md](Monitoring.md) | Zabbix, SNMP e Alertas |
+| 💾 [Backup.md](Backup.md) | Estratégia de Backup |
+| 🛠️ [Troubleshooting.md](Troubleshooting.md) | Guia de resolução de problemas |
+| ✅ [Best-Practices.md](Best-Practices.md) | Hardening e Segurança |
 
 ## 🚀 Roadmap
 
