@@ -8,8 +8,6 @@
 
 > Documentação técnica sobre implantação, administração e boas práticas utilizando o firewall OPNsense em ambientes corporativos.
 
-> Documentação técnica sobre implantação, administração e boas práticas utilizando o firewall OPNsense em ambientes corporativos.
-
 ---
 
 # 📌 Objetivo
