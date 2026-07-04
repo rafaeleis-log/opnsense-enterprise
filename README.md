@@ -22,32 +22,43 @@ Os conteúdos apresentados são genéricos e destinados a estudos, laboratórios
 
 ![Arquitetura OPNsense](Topology.png)
 
+## ✨ Principais Recursos
+
+- 🔥 Firewall Next Generation
+- 🌐 Segmentação por VLAN
+- 🔐 VPN Site-to-Site
+- 🛡 IDS/IPS com Suricata
+- 📊 Monitoramento com Zabbix
+- ☁️ Integração Microsoft 365
+- 📶 Infraestrutura UniFi
+- 💾 Estratégia de Backup
 ---
 
 # 📚 Documentação
 
-| Documento | Descrição |
-|-----------|-----------|
-| 📐 [Architecture.md](Architecture.md) | Arquitetura da solução |
-| 🔐 [VPN.md](VPN.md) | VPN Site-to-Site |
-| 🌐 [VLAN.md](VLAN.md) | Segmentação de rede |
-| 🛡 [Firewall-Rules.md](Firewall-Rules.md) | Regras de Firewall |
-| 💾 [Backup.md](Backup.md) | Estratégia de Backup |
-| 📊 [Monitoring.md](Monitoring.md) | Monitoramento |
-| ✅ [Best-Practices.md](Best-Practices.md) | Boas práticas |
----
+| Documento | Conteúdo |
+|-----------|----------|
+| 📐 Architecture | Arquitetura completa da solução |
+| 🔐 VPN | VPN Site-to-Site, OpenVPN e WireGuard |
+| 🌐 VLAN | Segmentação lógica |
+| 🛡 Firewall | Regras, NAT e Aliases |
+| 📊 Monitoring | Zabbix, SNMP e Alertas |
+| 💾 Backup | Estratégia de Backup |
+| ✅ Best Practices | Hardening e Segurança |
 
-# 🖥 Tecnologias
+## 🚀 Roadmap
 
-- OPNsense
-- Windows Server
-- Active Directory
-- Microsoft 365
-- OpenVPN
-- WireGuard
-- VLAN
-- UniFi
-- Zabbix
+- [x] Arquitetura
+- [x] VLANs
+- [x] VPN
+- [x] Firewall
+- [x] Monitoramento
+- [x] Backup
+- [ ] High Availability (CARP)
+- [ ] Multi-WAN
+- [ ] IPS Avançado
+- [ ] Captive Portal
+- [ ] Dashboard Grafana
 
 ---
 
@@ -62,6 +73,8 @@ Os conteúdos apresentados são genéricos e destinados a estudos, laboratórios
 
 ---
 
-# 📖 Licença
+## 📄 Licença
 
-MIT License
+Este projeto está licenciado sob a licença MIT.
+
+Consulte o arquivo LICENSE para mais detalhes.
